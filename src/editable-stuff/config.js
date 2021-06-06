@@ -5,32 +5,32 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  gradientColors: "#cad71a,#d71a2d,#d71ac1,#1ad740, #821ad7, #f1f1ec",
+  firstName: "Shashini",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Dileka",
+  message: " Wants to be a person who interacts with new technology ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/ShashiniDileka", 
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
+    //{
+      // image: "fa-facebook",
+      //url: "https://www.facebook.com/hashirshoaeb",
+    //},
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/_ok_shashi/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/o-k-shashini-dileka/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+    //{
+      //image: "fa-twitter",
+      //url: "https://www.twitter.com/hashirshoaeb/",
+    //},
   ],
 };
 
@@ -50,12 +50,12 @@ const mainBody = {
 
 const about = {
   show: true,
-  heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
-  imageSize: 375,
+  heading: "About Me", 
+  imageLink: require("../editable-stuff/shashini.jpg"),
+  imageSize: 300,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is o.k. shashini dileka. I’m an undergraduate and  i follow bsc (Hons) information degree program in university of Sri Jayewardenepura.i am intersting in cybersecurity field..",
+  resume: "https://docs.google.com/document/d/13a35YYW5YBCPfkm32AYyg_1hZp_IdOzgCjv2efjCcyE/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "ShashiniDileka", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
