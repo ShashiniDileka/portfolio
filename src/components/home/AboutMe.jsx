@@ -1,5 +1,5 @@
 import React from "react";
-import Pdf from "../../editable-stuff/resume.pdf";
+import Pdf from "../../editable-stuff/Resume.pdf";
 
 import axios from "axios";
 
@@ -38,7 +38,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
           <div className="col-5 d-none d-lg-block align-self-center">
             {showPic && (
               <img
-                className="border border-secondary rounded-circle"
+                className="border border-secondary rounded-square"
                 src={profilePicUrl}
                 alt="profilepicture"
                 width={imgSize}

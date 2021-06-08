@@ -22,7 +22,7 @@ const Navigation = React.forwardRef((props, ref) => {
       setScrollPosition(currPos.y);
     },
     [navBottom]
-  );
+  ); 
 
   React.useEffect(() => {
     if (!navbarDimensions) return;
@@ -33,11 +33,11 @@ const Navigation = React.forwardRef((props, ref) => {
 
   return (
     <Navbar
-      ref={navbarMenuRef}
-      className={` fixed-top  ${
-        !isTop ? "navbar-white" : "navbar-transparent"
-      }`}
-      expand="lg"
+     ref={navbarMenuRef}
+     className={` fixed-top  ${
+     !isTop ? "navbar-white" : "navbar-transparent"
+     }`}
+     expand="lg"
     >
       <Navbar.Brand className="brand" href={process.env.PUBLIC_URL + "/#home"}>
         {`${mainBody.firstName}`}
@@ -64,14 +64,14 @@ const Navigation = React.forwardRef((props, ref) => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            More Detail
+            Resume
           </Nav.Link>
           {about.show && (
             <Nav.Link
               className="nav-link lead"
               href={process.env.PUBLIC_URL + "/#aboutme"}
             >
-              Abou
+              About
             </Nav.Link>
           )}
           {skills.show && (
@@ -79,7 +79,7 @@ const Navigation = React.forwardRef((props, ref) => {
               className="nav-link lead"
               href={process.env.PUBLIC_URL + "/#skills"}
             >
-              Ski
+              Skills
             </Nav.Link>
           )}
         </Nav>
