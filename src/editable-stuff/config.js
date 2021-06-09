@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#cad71a,#d71a2d,#cad71a,#d71a2d,#cad71a,#d71a2d",
+  gradientColors: "#5c89cc,#4a6bcf,#5f6bc9,#5658d1,#7f6bf2,#a474e8",
   firstName: "Shashini",
   middleName: "",
   lastName: "Dileka",
@@ -19,18 +19,18 @@ const mainBody = {
       // image: "fa-facebook",
       //url: "https://www.facebook.com/hashirshoaeb",
     //},
-    //{
-      //image: "fa-instagram",
-      //url: "https://www.instagram.com/_ok_shashi/",
-    //},
+    {
+      image: "fa-instagram",
+      url: "https://www.instagram.com/_ok_shashi/",
+    },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/o-k-shashini-dileka-838a8620b",
     },
-    //{
-      //image: "fa-twitter",
-      //url: "https://www.twitter.com/hashirshoaeb/",
-    //},
+    {
+      image: "fa-twitter",
+      url: "https://www.twitter.com/dileka_o/",
+    },
   ],
 };
 
