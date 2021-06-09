@@ -34,7 +34,7 @@ const mainBody = {
   ],
 };
 
-// ABOUT SECTION
+// ABOUT SECTION 
 // If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
 //a) your Instagram username
 //      i.e:profilePictureLink:"johnDoe123",
@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/shashini.jpg"),
   imageSize: 300,
   message:
-    "My name is O.K. Shashini Dileka. I’m an undergraduate and I follow BSC(Hons)Information Technology degree program in university of Sri Jayewardenepura.I am intersting in cybersecurity field.",
+    "My name is O.K. Shashini Dileka. I’m an undergraduate and I follow BSC(Hons)information technology degree program in university of Sri Jayewardenepura.I am intersting in cybersecurity field.",
   resume: "https://drive.google.com/file/d/164xvjmKNf5UISORVZQeVLApO_BbdLdlu/view?usp=sharing",
 };
 
