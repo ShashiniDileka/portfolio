@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#cad71a,#d71a2d,#d71ac1,#1ad740, #821ad7, #f1f1ec",
+  gradientColors: "#5c89cc,#4a6bcf,#5f6bc9,#5658d1,#7f6bf2,#a474e8",
   firstName: "Shashini",
   middleName: "",
   lastName: "Dileka",
@@ -25,16 +25,16 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/o-k-shashini-dileka/",
+      url: "https://www.linkedin.com/in/o-k-shashini-dileka-838a8620b",
     },
-    //{
-      //image: "fa-twitter",
-      //url: "https://www.twitter.com/hashirshoaeb/",
-    //},
+    {
+      image: "fa-twitter",
+      url: "https://www.twitter.com/dileka_o/",
+    },
   ],
 };
 
-// ABOUT SECTION
+// ABOUT SECTION 
 // If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
 //a) your Instagram username
 //      i.e:profilePictureLink:"johnDoe123",
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/shashini.jpg"),
   imageSize: 300,
   message:
-    "My name is o.k. shashini dileka. I’m an undergraduate and  i follow bsc (Hons) information degree program in university of Sri Jayewardenepura.i am intersting in cybersecurity field..",
-  resume: "https://docs.google.com/document/d/13a35YYW5YBCPfkm32AYyg_1hZp_IdOzgCjv2efjCcyE/edit?usp=sharing",
+    "My name is O.K. Shashini Dileka. I’m an undergraduate and I follow BSC(Hons)information technology degree program in university of Sri Jayewardenepura.I am intersting in cybersecurity field.",
+  resume: "https://drive.google.com/file/d/164xvjmKNf5UISORVZQeVLApO_BbdLdlu/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -69,6 +69,7 @@ const repos = {
   gitHubUsername: "ShashiniDileka", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
+  
 };
 
 // Leadership SECTION
@@ -100,24 +101,25 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
+    { name: "Python", value: 50 },
+    { name: "SQL", value: 80 },
+    { name: "Data Structures", value: 90 },
+    { name: "C/C++", value: 50 },
+    { name: "JavaScript", value: 55 },
+    { name: "React", value: 70 },
+    { name: "HTML/CSS", value: 60 },
     { name: "C#", value: 80 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Leadership", value: 85},
+    { name: "Teamwork", value: 80 },
+    { name: "Positivity", value: 60 },
+    { name: "Adaptability", value: 70 },
+    { name: "Problem Solving", value: 90 },
+    { name: "Communication", value: 80 },
+    { name: "Organization", value: 90 },
+    { name: "Creativity", value: 80 },
+    { name: "Work ethic", value: 80 },
   ],
 };
 
@@ -126,8 +128,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I am interested in the cybersecurity field and if you know of any positions or courses available related to the field email me at",
+  email: "okdileka12@gmail.com",
 };
 
 const experiences = {
