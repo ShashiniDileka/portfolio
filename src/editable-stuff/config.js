@@ -111,14 +111,15 @@ const skills = {
     { name: "C#", value: 80 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 85},
-    { name: "Collaboration", value: 80 },
+    { name: "Leadership", value: 85},
+    { name: "Teamwork", value: 80 },
     { name: "Positivity", value: 60 },
     { name: "Adaptability", value: 70 },
     { name: "Problem Solving", value: 90 },
-    { name: "Empathy", value: 80 },
+    { name: "Communication", value: 80 },
     { name: "Organization", value: 90 },
     { name: "Creativity", value: 80 },
+    { name: "Work ethic", value: 80 },
   ],
 };
 
