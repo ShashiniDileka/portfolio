@@ -4,7 +4,7 @@
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/ShashiniDileka/home.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/configurations.json](./src/editable-stuff/configurations.json) file.
@@ -13,7 +13,7 @@
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-     "homepage": "https://<your-username>.github.io"
+     "homepage": "https://ShashiniDileka.github.io"
    ```
 
 7. Now, create a new empty repository named \<your-username>.github.io and leave it there.
@@ -22,7 +22,7 @@
 
    ```js
    const repoURL =
-     "https://github.com/<your-username>/<your-username>.github.io.git";
+     "https://github.com/ShashiniDileka/ShashiniDileka.github.io.git";
    ```
 
 9. To deploy website, run:
@@ -38,4 +38,4 @@
       https://<your-username>.github.io
     ```
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at okdileka12@gmail.com.

@@ -5,25 +5,25 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a>
+    <a href="https://ShashiniDileka.github.io">ShashiniDileka.github.io</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.com">About Me</a>
+    <a href="https://ShashiniDileka.com">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
+    <a href="https://github.com/ShashiniDileka/home/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
+    <a href="https://github.com/ShashiniDileka/home/issues">Request Feature</a>
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+![GitHub contributors](https://img.shields.io/github/contributors/ShashiniDileka/home?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ShashiniDileka/home?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/ShashiniDileka/home?style=for-the-badge)](https://github.com/ShashiniDileka/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/ShashiniDileka/home?color=ffcc66&style=for-the-badge)](https://github.com/ShashiniDileka/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/ShashiniDileka/home?style=for-the-badge)](https://github.com/ShashiniDileka/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/ShashiniDileka)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
+[![Site preview](/public/social-image.png)](https://ShashiniDileka.github.io/)
 
 ## Table of Contents
 
@@ -97,7 +97,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-    "homepage": "https://<your-username>.github.io/home"
+    "homepage": "https://ShashiniDileka.github.io/home"
    ```
 
    Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
@@ -133,7 +133,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at 92947@fhss.sjp.ac.lk.
 
 ## Contributing 🙌
 
