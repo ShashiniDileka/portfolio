@@ -129,7 +129,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I am interested in the cybersecurity field and if you know of any positions or courses available related to the field email me at",
-  email: "okdileka12@gmail.com",
+  email: "92947@fhss.sjp.ac.lk",
 };
 
 const experiences = {
