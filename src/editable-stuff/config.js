@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/shashini.jpg"),
   imageSize: 300,
   message:
-    "My name is O.K. Shashini Dileka. I’m an undergraduate and I follow BSC(Hons)information technology degree program in university of Sri Jayewardenepura.I am intersting in cybersecurity field.",
-  resume: "https://drive.google.com/file/d/164xvjmKNf5UISORVZQeVLApO_BbdLdlu/view?usp=sharing",
+    "My name is O.K. Shashini Dileka. I’m an undergraduate and I follow BSC(Hons)information technology degree program in university of Sri Jayewardenepura.I am intersting in software engineering field.",
+  resume: "https://drive.google.com/file/d/1ipUAEDI7FP9lYtZDFHDhKneEzsXS57eP/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -128,7 +128,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I am interested in the cybersecurity field and if you know of any positions or courses available related to the field email me at",
+    "I am interested in software engineering field and looking for part-time software engineering opportunities. if you know of any positions or courses available related to the field email me at",
   email: "92947@fhss.sjp.ac.lk",
 };
 
